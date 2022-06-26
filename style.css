@@ -1,0 +1,23 @@
+img {
+	width :200;
+	border:2px solid black ;	
+}
+body {
+	background-color: gold;
+	font-family: Arial;
+	
+	
+}
+
+
+.red {
+	color: red;
+}
+.bigFont{
+	font-size :32px;
+}
+
+#specialstyle {
+	width:30%;
+	border: 2px solid red;
+} background-color: gray;
